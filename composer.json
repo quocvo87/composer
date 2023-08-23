@@ -1,0 +1,7 @@
+{
+	"name": "quocvo87/composer",
+	"description": "Test define package",
+    "require": {
+		"predis/predis": "^2.1"
+    }
+}
