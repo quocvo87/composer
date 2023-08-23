@@ -1,7 +1,9 @@
 {
 	"name": "quocvo87/composer",
+	"type": "library",
 	"description": "Test define package",
 	"minimum-stability": "stable",
+	
     "require": {
 		"predis/predis": "^2.1"
     }
