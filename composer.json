@@ -10,5 +10,6 @@
         "psr-4": {
             "ourcodeworld\\HelloComposer\\": "src/"
         }
-    }
+    },
+	"license": "MIT"
 }
