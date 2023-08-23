@@ -3,10 +3,9 @@
 	"type": "package",
 	"description": "Test define package",
 	"minimum-stability": "dev",
-	
     "require": {
 		"predis/predis": "^2.1"
-    }
+    },
 	"autoload": {
         "psr-4": {
             "ourcodeworld\\HelloComposer\\": "src/"
